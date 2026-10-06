@@ -1,0 +1,85 @@
+Operating systems
+What is software?
+It is a set of instructions or programs used to perform specific tasks.
+(Lines of codes)
+(it can be any programing languages like c++,java ,python etc..)
+sw -calculator app
+picture
+
+
+types of software
+1.System software
+2.Application software
+
+1.System s/w
+It is used to manage system hardware(physical components like cpu,monitor ,keyboard etc)and application software.
+eg:os like woindows macos and linux.
+
+2.it is a s/w performs only by taking instructions from end users
+without os (system s/w) we can't run app s/w
+eg: browser,word,paint,excalidraw etc..
+Operating system 
+An os is a type of system software which is used to manage sytem h/w and s/w resources
+It acts as an interface between user and computer h/w
+It provides an user interface and controls how applications and hardware communicate
+windows os linux os and mac os
+picture
+
+
+Functionalities of Os
+1.process management
+2.Mempory management 
+3.I/O Device management
+4.File management
+5.Network management
+6.Security management
+7.User management
+8.Storage or disk management
+
+1.process management(Running application)
+a.which process will be executed
+b.which process will be executed for how much time.
+c.allocating proces to processor
+d.deallocating process from processor
+
+2.Memory management
+For a program to process to get executed ,it requires memory 
+a. how much memory to allocate to a process
+b.deallocating memory from process 
+c.how much memory is currently being used
+d. how much memory is free
+
+3.I/O management
+we can connect multiple devices like mouse keyboard printer scanner etc
+a.which process gets the device for how much time 
+b.managing the connection of these devices
+
+4.File management
+file systems contain many files and directories that are well organised
+keep track of 
+a.information
+b.location
+c.users
+d.status
+
+5>Network management
+Managing all network connections and devices
+
+6.Security management
+Managing all users
+who is the authorized user
+Restricting access to unauthorized users and activity
+
+7.user management
+Can create multiple users for a single machine and control the access
+
+8.Storage management
+storage maanagement is an operating system manages how data and files are stored
+,organised and retrieved from storage devices like HDDs and SSDs
+
+It manages disk space file systems directories and allocation of storage to programs
+and users.
+
+Oracle Virtualbox
+ubutu jammyjellyfish 22.04.5
+
